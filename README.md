@@ -12,6 +12,8 @@ Tip:The size of each button is different, there is no mark due to computer perfo
 
 The left and right PCBs are universal and symmetrical layout. Open the PCB file to obtain the required information.
 
+Tip:PCB outline can only be 0~negative-tolerance
+
 ## Keyboard Controller Guide
 
 Use USB_Type-C interface, PCB thickness <= 2mm, length 90mm_max, width 25mm_max. There are many keyboard controllers available in the world, for example: ProMicro...
